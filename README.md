@@ -58,6 +58,6 @@ Bu proje, kafe işletmelerinde sipariş ve masa yönetimini kolaylaştırmak ama
 ---
 
 ## 📂 Proje Dosya Yapısı
-- **main.py:** Uygulamanın ana dosyası
+- **cafesystem.py:** Uygulamanın ana dosyası
 - **kafe_sistemi.db:** SQLite veritabanı dosyası
 - **README.md:** Proje açıklaması ve kurulum rehberi
